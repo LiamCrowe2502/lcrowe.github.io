@@ -7,6 +7,6 @@ check it out!
 Kotlin
 
 ### Links
-[https://github.com/LiamCrowe2502/RugbyClubV2]
-(https://github.com/LiamCrowe2502/RugbyClubV2)
 <a href="https://github.com/LiamCrowe2502/RugbyClubV2">Click Me</a>
+
+[button url="https://github.com/LiamCrowe2502/RugbyClubV2"]
